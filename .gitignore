@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcworkspace/
+*.xcuserdata/
+xcuserdata/
+xcuserdata/*
+
+# Build
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Logs
+*.log
+*.xcuserstate
